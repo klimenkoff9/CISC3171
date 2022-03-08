@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Security</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="unlock_button_text">Unlock</string>
+    <string name="first_fragment_locked">Welcome to the App! The App is LOCKED!</string>
+    <string name="first_fragment_unlocked">The App is UNLOCKED</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="button_1_text">1</string>
+    <string name="button_2_text">2</string>
+    <string name="button_3_text">3</string>
+    <string name="button_4_text">4</string>
+    <string name="second_fragment_h1_text">Access Control</string>
+    <string name="second_fragment_h2_text">Enter the combination</string>
+    <string name="test">Welcome to the App! The App is LOCKED!</string>
+</resources>
